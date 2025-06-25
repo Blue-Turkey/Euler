@@ -16,9 +16,9 @@ long long c3(long long x){
 	return ((((k*(k-1)/2)%m)*(k-2))%m*s3)%m;
 }
 int main(){
-	freopen("a.in","r",stdin);
-	freopen("a.out","w",stdout);
-	cin>>n;
+	// freopen("a.in","r",stdin);
+	// freopen("a.out","w",stdout);
+	n=1111111111111111111;
 	long long b=n;
 	while(b){
 		a.push_back(b%2);
