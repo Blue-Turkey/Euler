@@ -1,4 +1,4 @@
-<img width="1773" height="744" alt="image" src="https://github.com/user-attachments/assets/1e6da696-ba44-40ed-9cbd-978f758f1ede" />847:381868244
+847:381868244
 
 855:6.8827571976e-57
 
